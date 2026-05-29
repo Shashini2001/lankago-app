@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_settings" android:title="Settings" android:icon="@drawable/settings" />
+    <item android:id="@+id/nav_about" android:title="About us" android:icon="@drawable/group" />
+    <item android:id="@+id/nav_link_history" android:title="Link History" android:icon="@drawable/link" />
+    <item android:id="@+id/nav_qr_payment" android:title="QR Payment" android:icon="@drawable/qrscan" />
+    <item android:id="@+id/nav_seat_booking" android:title="Seat Booking" android:icon="@drawable/seat" />
+    <item android:id="@+id/nav_languages" android:title="Languages" android:icon="@drawable/world" />
+    <item android:id="@+id/nav_dark_mode" android:title="Dark Mode" android:icon="@drawable/drakmode" />
+    <item android:id="@+id/nav_review" android:title="Review" android:icon="@drawable/settings" />
+
+    <group android:id="@+id/group_bottom">
+        <item android:id="@+id/nav_logout" android:title="Log-out" android:icon="@drawable/logout" />
+    </group>
+</menu>

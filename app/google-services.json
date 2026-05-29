@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414158438136",
+    "project_id": "lankago-64d9d",
+    "storage_bucket": "lankago-64d9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414158438136:android:207f04b62eefec9b09c50d",
+        "android_client_info": {
+          "package_name": "com.example.lankagotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBydnilSAhiCEn2M4TipS6r-pRG2enEZts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

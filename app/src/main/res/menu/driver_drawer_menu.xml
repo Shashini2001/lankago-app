@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_driver_settings" android:title="Settings" android:icon="@drawable/settings" />
+    <item android:id="@+id/nav_driver_about" android:title="About us" android:icon="@drawable/user" />
+    <item android:id="@+id/nav_driver_link_history" android:title="Link History" android:icon="@drawable/link" />
+    <item android:id="@+id/nav_driver_languages" android:title="Languages" android:icon="@drawable/world" />
+
+    <item android:id="@+id/nav_driver_dark_mode" android:title="Dark Mode" android:icon="@drawable/drakmode" />
+
+    <group android:id="@+id/group_bottom">
+        <item android:id="@+id/nav_driver_sign_out" android:title="Sign out" android:icon="@drawable/logout" />
+    </group>
+</menu>

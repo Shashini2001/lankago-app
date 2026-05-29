@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LankaGotest</string>
+    <string name="lanka_go">Lanka Go</string>
+    <string name="select_language">Select your language</string>
+    <string name="english">English</string>
+    <string name="sinhala">සිංහල</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="welcome">WELCOME</string>
+    <string name="driver_label">I\'M A DRIVER</string>
+    <string name="passenger_label">I\'M A PASSENGER</string>
+    <string name="skip">Skip ></string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="lanka_go_bang">Lanka Go!</string>
+    <string name="intro_desc_1">Sri Lanka\'s first\nreal-time bus tracking and booking assistant.</string>
+    <string name="intro_sub_desc_1">Getting your day-to-day bus travel\nupdates is now just a matter of few\nclicks!</string>
+    <string name="menu">Menu</string>
+    <string name="routes">Routes</string>
+    <string name="location">Location</string>
+    <string name="search_route">Search Route</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+</resources>
