@@ -27,7 +27,7 @@ The application dynamically adapts its interface based on the selected user role
 
 *  **Driver**
       
-<img width="200" height="380" alt="driver_app" src="https://github.com/user-attachments/assets/99f881da-1520-4fee-ab0d-f0afbb823611" />
+<img width="250" height="400" alt="driver_app" src="https://github.com/user-attachments/assets/99f881da-1520-4fee-ab0d-f0afbb823611" />
 
 
 ---
