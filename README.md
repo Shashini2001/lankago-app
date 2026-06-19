@@ -21,13 +21,13 @@ Public transportation users often face challenges such as uncertainty about bus 
 
 The application dynamically adapts its interface based on the selected user role:
 
-* 🧍 Passenger
+*  **Passenger**
 
-<img width="377" height="661" alt="family-removebg-preview" src="https://github.com/user-attachments/assets/4389eb2c-3a5b-4634-a280-a1184d931764" />
+<img width="250" height="400" alt="family-removebg-preview" src="https://github.com/user-attachments/assets/4389eb2c-3a5b-4634-a280-a1184d931764" />
 
-* 🚍 Driver
+*  **Driver**
       
-<img width="446" height="558" alt="driver_app" src="https://github.com/user-attachments/assets/99f881da-1520-4fee-ab0d-f0afbb823611" />
+<img width="200" height="380" alt="driver_app" src="https://github.com/user-attachments/assets/99f881da-1520-4fee-ab0d-f0afbb823611" />
 
 
 ---
