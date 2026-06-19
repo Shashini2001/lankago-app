@@ -22,8 +22,6 @@ Public transportation users often face challenges such as uncertainty about bus 
 The application dynamically adapts its interface based on the selected user role:
 
 * 🧍 Passenger
-  <img width="377" height="661" alt="driver__2_-removebg-preview" src="https://github.com/user-attachments/assets/1c2d01b2-a13a-46d9-b58b-feb98b1e32cd" />
-
 * 🚍 Driver
 
 ---
@@ -83,6 +81,9 @@ Passengers can:
 ---
 
 ## 🚍 Driver Features
+
+<img width="180" height="250" alt="driver__2_-removebg-preview" src="https://github.com/user-attachments/assets/c5e14f78-8c02-4336-b342-ca0c324d2d14" />
+
 
 ###  One-Tap Location Broadcasting
 
