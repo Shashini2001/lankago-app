@@ -1,4 +1,3 @@
-
 # 🚌 Lanka Go
 
 **Lanka Go** is a comprehensive public transportation mobile application designed to modernize and simplify the bus travel experience in Sri Lanka. The platform connects passengers and bus drivers through a unified real-time ecosystem, providing live bus tracking, digital seat reservations, secure ticketing, and seamless communication.
@@ -23,6 +22,8 @@ Public transportation users often face challenges such as uncertainty about bus 
 The application dynamically adapts its interface based on the selected user role:
 
 * 🧍 Passenger
+  <img width="377" height="661" alt="driver__2_-removebg-preview" src="https://github.com/user-attachments/assets/1c2d01b2-a13a-46d9-b58b-feb98b1e32cd" />
+
 * 🚍 Driver
 
 ---
